@@ -1,10 +1,10 @@
 # COEN 316 – Computer Architecture & Design Labs
 
 ## Project Overview
-This repository contains the lab work for **COEN 316: Computer Architecture & Design** at Concordia University.  
-The labs focus on the design and implementation of CPU components using VHDL, simulation in ModelSim, and FPGA deployment on the Nexys A7 board.
 
-The progression moves from designing individual components (ALU, Register File) to integrating them into a simple CPU, demonstrating the fundamentals of digital system design.
+This repository contains the implementation of multiple labs from COEN 316, focusing on CPU architecture and design. Over the course of these labs, I developed and integrated various components of a CPU in VHDL, simulated using ModelSim, and deployed on the Nexys A7 FPGA.
+
+The project covers the design and testing of the ALU, register file, CPU datapath, and memory/I/O integration. The final design is capable of executing a defined instruction set, modeled on a RISC architecture similar to MIPS.
 
 ---
 
